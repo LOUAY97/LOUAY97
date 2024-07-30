@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LOUAY97
 - 👀 I’m interested in ...full stack develpoment
-- 🌱 I’m currently learning ...AngularJs
+- 🌱 I’m currently learning ...Angular
 - 💞️ I’m looking to collaborate on ...web and mobile projects
 - 📫 How to reach me ...loueifradi97@gmail.com
 
